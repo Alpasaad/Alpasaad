@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on PCB Altuim designer 
+- 🔭 I’m currently working on PCB Altuim designer , sowftware , 
 - 🌱 I’m currently Master studen (Mechtronics)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
